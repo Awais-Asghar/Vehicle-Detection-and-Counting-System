@@ -5,7 +5,7 @@
 ![Language](https://img.shields.io/badge/language-Python-yellow.svg)
 ![Framework](https://img.shields.io/badge/framework-OpenCV%20%7C%20YOLOv4-red.svg)
 ![IDE](https://img.shields.io/badge/IDE-VS%20Code-blueviolet.svg)
-![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
+![License](https://img.shields.io/badge/license-MIT-lightgrey.svg) 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/103e5c2b-0e59-4702-9802-44d87e662c03" />
 
