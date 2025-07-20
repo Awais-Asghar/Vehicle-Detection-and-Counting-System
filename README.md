@@ -1,4 +1,4 @@
-# Vehicle Detection and Counting System
+# Vehicle Detection and Counting System 
 
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-PC--based-blue.svg)
